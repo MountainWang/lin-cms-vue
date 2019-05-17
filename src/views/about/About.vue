@@ -60,12 +60,12 @@
           <img src="../../assets/img/about/team-icon.png" alt="">
         </div>
       </div>
-      <div class="official-account">
-        <div class="official-account-box">
-          <img src="../../assets/img/about/qrcode.jpg" alt="">
-          <p>扫码关注林间有风公众号</p>
-        </div>
-      </div>
+<!--      <div class="official-account">-->
+<!--        <div class="official-account-box">-->
+<!--          <img src="../../assets/img/about/qrcode.jpg" alt="">-->
+<!--          <p>扫码关注林间有风公众号</p>-->
+<!--        </div>-->
+<!--      </div>-->
     </div>
   </div>
 </template>
